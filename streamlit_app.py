@@ -54,8 +54,8 @@ if not fruit_choice:
 #import streamlit
 #import pandas
 #import requests
-import snowflake.connector
-from urllib.error import URLError
+#import snowflake.connector
+#from urllib.error import URLError
 
 
 #my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
