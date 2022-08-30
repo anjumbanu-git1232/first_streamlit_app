@@ -42,9 +42,9 @@ streamlit.dataframe(fruityvice_normalized)
 #dont run anything whilke troubleshooting
 streamlit.stop()
 
-import streamlit()
-import pandas()
-import requests()
+import streamlit
+import pandas
+import requests
 import snowflake.connector
 from urllib.error import URLError
 
